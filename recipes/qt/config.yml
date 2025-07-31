@@ -9,3 +9,5 @@ versions:
     folder: 6.x.x
   "5.15.16":
     folder: 5.x.x
+  "5.15.2":
+    folder: 5.x.x
